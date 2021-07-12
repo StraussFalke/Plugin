@@ -1,0 +1,10 @@
+name: TranslatePlugin
+version: ${project.version}
+main: de.straussfalke.translateplugin.Main
+api-version: 1.16
+authors: [ sf ]
+description: translating chat messages to every people
+
+commands:
+  test:
+    permission: test.command
